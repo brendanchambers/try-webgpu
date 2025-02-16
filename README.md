@@ -18,5 +18,3 @@ Secondary dev setup is able to run webgpu.
 info:  
 Apple M3 Pro  
 14.7.2  
-
-
